@@ -6,6 +6,13 @@ Aplicação desenvolvida para aprendizados na semana intensiva do NLW#Togheter p
 👨‍💻 Tecnologias Utilizadas :
 
 ReactJS
+
+
 TypeScript
+
+
+Scss
+
+
 Firebase ( Back End As Service )
 
